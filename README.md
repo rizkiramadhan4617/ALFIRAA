@@ -20,7 +20,7 @@
 </p>
 
 
-## SETTING:.               ## WHATSAPP GROUP
+## SETTING:.                                                  WHATSAPP GROUP
 
 - [ownerNumber](https://github.com/rizkiramadhan4617/ALFIRAA)
 

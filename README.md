@@ -20,9 +20,10 @@
 </p>
 
 
-## SETTING:.                                                  WHATSAPP GROUP
-
+## SETTING:
 - [ownerNumber](https://github.com/rizkiramadhan4617/ALFIRAA)
+<br>
 
+<p align="center">
 ## WHATSAPP GROUP
 * [`Klick`](https://chat.whatsapp.com/BAHKpyOMGcA2m6pHcj920C)

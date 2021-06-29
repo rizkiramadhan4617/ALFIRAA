@@ -20,8 +20,8 @@
 </p>
 
 
-## SETTING:
-Change owner
+## SETTING:.               ## WHATSAPP GROUP
+
 - [ownerNumber](https://github.com/rizkiramadhan4617/ALFIRAA)
 
 ## WHATSAPP GROUP
